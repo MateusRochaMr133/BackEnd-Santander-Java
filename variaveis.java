@@ -1,4 +1,4 @@
-public class aula02 {
+public class variaveis {
     
     public static void main(String[] args) {
         
